@@ -1,0 +1,23 @@
+{
+  "name": "getdatafrommongodbusingnodejsapi",
+  "version": "1.0.0",
+  "description": "learn mongodb connection with nodejs api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshukla1250/GetDataFromMongodbUsingNodejsAPI.git"
+  },
+  "author": "sandeep shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshukla1250/GetDataFromMongodbUsingNodejsAPI/issues"
+  },
+  "homepage": "https://github.com/sshukla1250/GetDataFromMongodbUsingNodejsAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0"
+  }
+}
