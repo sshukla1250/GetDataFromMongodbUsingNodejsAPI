@@ -1,0 +1,3 @@
+body.parse: is used for parse body 
+app.use(express.json()):  after express4.6, we are parsing body data using express.json
+Note:request se body get karne ke liye kya usse karoge: body.parse/express.json
